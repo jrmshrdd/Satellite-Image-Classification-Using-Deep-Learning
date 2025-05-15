@@ -14,7 +14,13 @@ This project builds a Convolutional Neural Network (CNN) to classify satellite i
 - **Size**: 27,000+ RGB images (64×64)
 
 ---
+## Components Used:
+Image Preprocessing (OpenCV, PIL)
+CNNs using TensorFlow/Keras or PyTorch
+Image Augmentation
+Evaluation (Accuracy, Confusion Matrix)
 
+----
 ## 🧠 Project Objectives
 
 - Build and train a CNN using PyTorch to classify satellite imagery.
