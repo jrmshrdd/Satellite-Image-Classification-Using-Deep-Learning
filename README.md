@@ -37,5 +37,5 @@ This project builds a Convolutional Neural Network (CNN) to classify satellite i
 
 ---
 
-## 📁 Folder Structure
+
 
