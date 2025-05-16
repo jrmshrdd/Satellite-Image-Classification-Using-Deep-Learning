@@ -40,6 +40,10 @@ This project builds a Convolutional Neural Network (CNN) to classify satellite i
 | Data Processing  | Torchvision, PIL        |
 | Visualization    | Matplotlib              |
 | Dataset          | EuroSAT (via torchvision) |
+--------------
+## 📈 Example Output
+
+![Prediction Output](Sample Output.png)
 
 ---
 
