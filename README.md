@@ -43,7 +43,7 @@ This project builds a Convolutional Neural Network (CNN) to classify satellite i
 --------------
 ## 📈 Example Output
 
-![Prediction Output](Sample Output.png)
+<img width="803" alt="Sample output" src="https://github.com/user-attachments/assets/a39e2df3-e633-4ae7-ad91-205e8c220c9f" />
 
 ---
 
